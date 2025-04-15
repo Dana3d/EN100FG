@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/EN100FG0001.png" />
+    <userInterface showProgressPulse="false" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" showProgressBar="true" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="true" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="true" />
+  </settings>
+  <hotspots />
+  <images rows="1">
+    <image src="images/EN100FG0001.png" />
+    <image src="images/EN100FG0002.png" />
+    <image src="images/EN100FG0003.png" />
+    <image src="images/EN100FG0004.png" />
+    <image src="images/EN100FG0005.png" />
+    <image src="images/EN100FG0006.png" />
+    <image src="images/EN100FG0007.png" />
+    <image src="images/EN100FG0008.png" />
+    <image src="images/EN100FG0009.png" />
+    <image src="images/EN100FG0010.png" />
+    <image src="images/EN100FG0011.png" />
+    <image src="images/EN100FG0012.png" />
+    <image src="images/EN100FG0013.png" />
+    <image src="images/EN100FG0014.png" />
+    <image src="images/EN100FG0015.png" />
+    <image src="images/EN100FG0016.png" />
+    <image src="images/EN100FG0017.png" />
+    <image src="images/EN100FG0018.png" />
+    <image src="images/EN100FG0019.png" />
+    <image src="images/EN100FG0020.png" />
+    <image src="images/EN100FG0021.png" />
+    <image src="images/EN100FG0022.png" />
+    <image src="images/EN100FG0023.png" />
+    <image src="images/EN100FG0024.png" />
+    <image src="images/EN100FG0025.png" />
+    <image src="images/EN100FG0026.png" />
+    <image src="images/EN100FG0027.png" />
+    <image src="images/EN100FG0028.png" />
+    <image src="images/EN100FG0029.png" />
+    <image src="images/EN100FG0030.png" />
+    <image src="images/EN100FG0031.png" />
+    <image src="images/EN100FG0032.png" />
+    <image src="images/EN100FG0033.png" />
+    <image src="images/EN100FG0034.png" />
+    <image src="images/EN100FG0035.png" />
+    <image src="images/EN100FG0036.png" />
+    <image src="images/EN100FG0037.png" />
+    <image src="images/EN100FG0038.png" />
+    <image src="images/EN100FG0039.png" />
+    <image src="images/EN100FG0040.png" />
+    <image src="images/EN100FG0041.png" />
+    <image src="images/EN100FG0042.png" />
+    <image src="images/EN100FG0043.png" />
+    <image src="images/EN100FG0044.png" />
+    <image src="images/EN100FG0045.png" />
+    <image src="images/EN100FG0046.png" />
+    <image src="images/EN100FG0047.png" />
+    <image src="images/EN100FG0048.png" />
+    <image src="images/EN100FG0049.png" />
+    <image src="images/EN100FG0050.png" />
+    <image src="images/EN100FG0051.png" />
+    <image src="images/EN100FG0052.png" />
+    <image src="images/EN100FG0053.png" />
+    <image src="images/EN100FG0054.png" />
+    <image src="images/EN100FG0055.png" />
+    <image src="images/EN100FG0056.png" />
+    <image src="images/EN100FG0057.png" />
+    <image src="images/EN100FG0058.png" />
+    <image src="images/EN100FG0059.png" />
+    <image src="images/EN100FG0060.png" />
+  </images>
+</config>
